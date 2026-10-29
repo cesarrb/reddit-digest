@@ -1,0 +1,6 @@
+{
+  "subreddits": ["MacStudio"],
+  "limit": 100,
+  "comment_posts": 10,
+  "comments_per_post": 50
+}
